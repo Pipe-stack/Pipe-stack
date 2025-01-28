@@ -53,6 +53,25 @@ I-am-Pipe
 
 </p>
 
+  <!--- stats (start) -->
+## <b> Statistical Data :</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pipe-Stack&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pipe-Stack&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+ 
+  </td>
+
+</tr>
+</table>
+<!--- stats (end) -->
 
 <br>
 <br>
