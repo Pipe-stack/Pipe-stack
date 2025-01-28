@@ -13,6 +13,7 @@ I-am-Pipe
 💻 I am a programming student, I aspire to be a full-stack developer.
 🌱 I study front-end, although I also learn some back-end things.
 🚩 Interested in programming
+📍  I am a junior developer.
 🎵 Love listening music
 ```
 <hr>
