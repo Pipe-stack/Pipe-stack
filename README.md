@@ -50,12 +50,6 @@ I-am-Pipe
 
    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
-
-- **IA**:
-
-   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
 </p>
 
   <!--- stats (start) -->
