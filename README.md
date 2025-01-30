@@ -10,7 +10,7 @@
 ```
 I-am-Pipe
 -------------------------
-💻 I am a programming student, I aspire to be a full-stack developer.
+💻 I am a programming student.
 🌱 I study front-end, although I also learn some back-end things.
 🚩 Interested in programming
 📍  I am a trainee developer.
