@@ -89,13 +89,6 @@ I-am-Pipe
 
 <br>
 
-<li>
-<a href="https://x.com/pipestackk" target="_blank">
-<img src="https://img.shields.io/badge/x:  pipestackk-%2300acee.svg?color=030000&style=for-the-badge&logo=x&logoColor=white" alt=x style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
 
 <li>
 <a href="mailto:pipestackk@gmail.com" target="_blank">
